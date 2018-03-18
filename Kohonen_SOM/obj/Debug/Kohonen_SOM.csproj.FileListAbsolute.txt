@@ -1,0 +1,28 @@
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe.config
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.pdb
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.csprojResolveAssemblyReference.cache
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.Form1.resources
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.Properties.Resources.resources
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.csproj.GenerateResource.Cache
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.exe
+c:\users\małgorzata\documents\visual studio 2015\Projects\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.pdb
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe.config
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.exe
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.pdb
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.pdb
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.csprojResolveAssemblyReference.cache
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.Form1.resources
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.Properties.Resources.resources
+F:\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.csproj.GenerateResource.Cache
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe.config
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\bin\Debug\Kohonen_SOM.pdb
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.csprojResolveAssemblyReference.cache
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.Properties.Resources.resources
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.csproj.GenerateResource.Cache
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.csproj.CoreCompileInputs.cache
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.exe
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.pdb
+D:\Projekty\Neural Network\Kohonen_SOM\Kohonen_SOM\obj\Debug\Kohonen_SOM.Form1.resources
